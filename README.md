@@ -24,7 +24,7 @@ These mask-related codes are copied from mscoco [API](https://github.com/pdollar
 ## Download
 Download the cleaned data and extract them into "data" folder
 - 1) http://tlberg.cs.unc.edu/licheng/referit/data/refclef.zip
-- 2) http://tlberg.cs.unc.edu/licheng/referit/data/refcoco.zip
+- 2) http://tlberg.cs.unc.edu/licheng/referit/data/new_data/refcoco.zip
 - 3) http://tlberg.cs.unc.edu/licheng/referit/data/new_data/refcoco+.zip 
 - 4) http://tlberg.cs.unc.edu/licheng/referit/data/refcocog.zip 
 
