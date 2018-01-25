@@ -1,4 +1,4 @@
-## Note
+## Note (This Repo contains our new testing set for RefCOCO and RefCOCO+, which is used in our [CVPR2017 paper](https://arxiv.org/abs/1612.09542).)
 This API is able to load all 4 referring expression datasets, i.e., RefClef, RefCOCO, RefCOCO+ and RefCOCOg. 
 They are with different train/val/test split by UNC, Google and UC Berkeley respectively. We provide all kinds of splits here.
 Note, RefCOCO+ may change in the future as we are still cleaning it. 
